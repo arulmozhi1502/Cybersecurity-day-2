@@ -1,0 +1,22 @@
+From: Amazon Prime Support <alert@amaz0n-support.com>
+To: user@example.com
+Subject: Your Prime Membership is Expiring Today!
+
+Dear Valued Customer,
+
+Our system shows that your Amazon Prime Membership is about to expire today. To continue enjoying your Prime benefits, you must renew your membership immediately.
+
+Renew now to avoid service interruption:
+
+👉 https://secure-amazon-prime-check.com/update
+
+If no action is taken within the next 12 hours, your membership will be cancelled and you will lose access to all Prime features.
+
+Thank you for choosing Amazon.
+
+Best regards,  
+Amazon Support Team
+
+---
+
+Note: This is a system-generated message. Do not reply.
