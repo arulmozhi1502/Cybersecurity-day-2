@@ -47,8 +47,8 @@ A written report listing all phishing indicators found in the analyzed email.
 - **Check for spoofed domains** (e.g., `support@paypa1.com` instead of `paypal.com`)
 - Look for strange subdomains or unverified addresses.
 - Suspicious links
-- language grammer used: **look for urgency like "act now", "last chance", etc.**
-- Dangerous Attachments that might be of types .zip, .html, .exe, etc
+- language grammer used: **look for urgency like `act now`, `last chance`, etc.**
+- Dangerous Attachments that might be of types `.zip`, `.exe`, `.html` etc
 
  ### Spoofed emails
   Email spoofing is a common form of phishing attack designed to make the recipient believe that the message originates from a trusted source.
@@ -98,5 +98,5 @@ The email displayed these common phishing traits:
 ---
 
 > 🔐 *Reminder: Always analyze phishing samples in a secure, offline, or sandboxed environment.*
->> blog that helped me "https://intezer.com/blog/automate-analysis-phishing-email-files/#h-how-to-inspect-phishing-email-files-like-an-experienced-analyst"
->> https://blog.usecure.io/the-most-common-examples-of-a-phishing-email
+>> blog that helped me -- "https://intezer.com/blog/automate-analysis-phishing-email-files/#h-how-to-inspect-phishing-email-files-like-an-experienced-analyst"
+>> - "https://blog.usecure.io/the-most-common-examples-of-a-phishing-email"
