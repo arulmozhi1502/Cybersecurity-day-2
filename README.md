@@ -98,5 +98,6 @@ The email displayed these common phishing traits:
 ---
 
 > 🔐 *Reminder: Always analyze phishing samples in a secure, offline, or sandboxed environment.*
->> blog that helped me -- "https://intezer.com/blog/automate-analysis-phishing-email-files/#h-how-to-inspect-phishing-email-files-like-an-experienced-analyst"
+>> blog that helped me
+>> - "https://intezer.com/blog/automate-analysis-phishing-email-files/#h-how-to-inspect-phishing-email-files-like-an-experienced-analyst"
 >> - "https://blog.usecure.io/the-most-common-examples-of-a-phishing-email"
