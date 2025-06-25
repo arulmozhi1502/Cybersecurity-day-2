@@ -23,15 +23,15 @@ A written report listing all phishing indicators found in the analyzed email.
 
 ## 1️. Obtain a Sample Phishing Email
   - Downloaded a phishing email from a public phishing archive.
-  Reference links: 
-    "https://caniphish.com/free-phishing-test/phishing-email-templates"
-    "https://security.berkeley.edu/education-awareness/phishing/phishing-examples-archive"
+  - Reference links: 
+    -- "https://caniphish.com/free-phishing-test/phishing-email-templates"
+    -- "https://security.berkeley.edu/education-awareness/phishing/phishing-examples-archive"
     
   - Saved in `.eml` or `.txt` format.
 
 ## 2️. Examine Sender’s Email Address
   ### Spoofed emails
-    - Email spoofing is a common form of phishing attack designed to make the recipient believe that the message originates from a trusted source.
+  Email spoofing is a common form of phishing attack designed to make the recipient believe that the message originates from a trusted source.
 
 - **Check for spoofed domains** (e.g., `support@paypa1.com` instead of `paypal.com`)
 - Look for strange subdomains or unverified addresses.
